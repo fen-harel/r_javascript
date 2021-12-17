@@ -5,5 +5,3 @@ Learning From Front-End Masters
 [Slides 2](https://slides.com/bgando/f2f-final-day-2)
 
 Transcript included
-
-TESTING TOKENZ
